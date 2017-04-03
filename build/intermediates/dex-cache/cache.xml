@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_6749443ea6cd1b256a0868ec8db4f5a46bfe8393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_7e2654ad519a1ba95d645f79b1640f16fbb8b5da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_559d2485793b8a36ab5481844753226f751191c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bf27cafa53e5f6c6e73f82d9b101cf120df4427">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1d1243a34d8447cf7935b4351ecd55701a159bcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_8152d9b11600712550598d42ea87250d92929032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_eaf3b93856dad0375a12eda3a6fa12c81a68c329/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a6089d06906a0627821590b9413e329492743f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_59cde76af40c052d70170b2e55c134d6325fe8c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_f8ba8bf27f7f6815ef1ba97b2d7d3b51f861e15a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5dda41e35e1e92ba31fe3d5b534b205ec9a9816d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e006c9b6f0aaed9d8c7934b74039738390fe3468">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.1.0_5426aace8dc571a67a6ebd7d23a03569402c4505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.0_90192e5d16fa3c83ec6cc59821e1257fe10d26eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_37ce4486352cfa1504337d8b8f4640d8b3daebbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.1.0_8405cc99e5111d9c31136c43882b0c8b07b15dc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_96ff4ec273fcc3724328ed4945fafea4804e4064/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_8b123046b727a066a2b51733fe574a2932110778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_937b5e30c3a9da00a4c48ad3d01dda776dd7957f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_bcfc93d1b6c94db553d6d994d840a5c9b2bd9bf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dc8ea2dce4fb4fe9654be5274d025dfb3a8ccb5">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c34ec476c1aa08d6c9d7c57b1280a58b54639072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_e5ab1c4d32eac24d40c3e34a876b00207c605b5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_8acc3f7f72284dd7f010b57ac1257bdcf8e037c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mostafa/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/mostafa/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_cf3dce4355c9382303f82cfa2f4d97a0e3c895f7/classes.dex" />
+    </item>
+
+</items>
